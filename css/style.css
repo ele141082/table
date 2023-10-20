@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+
+.container-table{
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+
+.table-row{
+    padding: 1rem;
+}
+
+.table-icon{
+    padding: 1rem;
+}
